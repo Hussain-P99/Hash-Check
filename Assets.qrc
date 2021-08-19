@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>check.png</file>
+        <file>cross.png</file>
+        <file>appIcon.png</file>
+    </qresource>
+</RCC>
